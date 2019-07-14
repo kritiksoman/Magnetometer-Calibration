@@ -3,7 +3,7 @@
 
 A MEMS magnetometer present in a smartphone needs to be calibrated before using it to measure the magnetic field. As an example, the process is demonstrated in the following YouTube video:
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/OFF_nzIktRk/0.jpg)](https://www.youtube.com/watch?v=OFF_nzIktRk "Everything Is AWESOME")
+[![Youtube Video](https://img.youtube.com/vi/OFF_nzIktRk/0.jpg)](https://www.youtube.com/watch?v=OFF_nzIktRk "Youtube Video")
 
 
 # Overview
@@ -22,4 +22,5 @@ The following files/folders are present in this code: <br/>
 ![image1](https://github.com/kritiksoman/Magnetometer-Calibration/blob/master/results/mag_cal.png)
 
 # Note
-Code was tested on MATLAB 2014b.
+[1] Code was tested on MATLAB 2014b. <br/>
+[2] Data was collected by using an application on play store. ([Link to app](https://play.google.com/store/apps/details?id=com.hfalan.activitylog&hl=en))
