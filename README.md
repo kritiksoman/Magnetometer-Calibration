@@ -8,7 +8,7 @@ A MEMS magnetometer present in a smartphone needs to be calibrated before using 
 
 The algorithm running behind this application has been implemented here. As the user moves the mobile in the specific motion, the data from the magnetometer is fit into a sphere. The center of the sphere is then subtracted from the subsequent sensor data to get the calibrated values. 
 
-# Files
+## Files
 The following files/folders are present in this code: <br/>
 [1] data : this folder contains the data from all the sensors, namely, magnetometer and accelerometer.<br/>
 [2] mag_cal.m : this script performs calibration and produces 3 plots. The first one shows the rolling pebble as in the video, the second one shows the sensor data being read, and the third one shows the sphere that was fit using the data.<br/>
